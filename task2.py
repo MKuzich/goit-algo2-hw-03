@@ -1,4 +1,3 @@
-import csv
 import random
 import timeit
 from BTrees.OOBTree import OOBTree
